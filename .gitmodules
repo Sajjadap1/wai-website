@@ -1,7 +1,7 @@
 [submodule "_external/data"]
 	path = _external/data
 	url = https://github.com/w3c/wai-website-data.git
-	branch = master
+	branch = perf-sitemaps
 [submodule "_external/resources/wai-bcase"]
 	path = _external/resources/wai-bcase
 	url = https://github.com/w3c/wai-bcase.git
@@ -133,7 +133,7 @@
 [submodule "_external/resources/wai-about-wai"]
 	path = _external/resources/wai-about-wai
 	url = https://github.com/w3c/wai-about-wai.git
-	branch = master
+	branch = perf-sitemaps
 [submodule "_external/resources/wai-sitemap"]
 	path = _external/resources/wai-sitemap
 	url = https://github.com/w3c/wai-sitemap.git
